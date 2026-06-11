@@ -1,0 +1,3475 @@
+{
+    "AE": {
+        "country_name": "Emirates",
+        "phone_format": "+971-XX-XXX-XXXX",
+        "streets": [
+            "Al Khaleej Road",
+            "Al Maktoum Road",
+            "Al Rigga Road",
+            "Al Wasl Road",
+            "Beach Road",
+            "Corniche Road",
+            "Jumeirah Beach Road",
+            "Khalifa Street",
+            "Sheikh Zayed Road",
+            "Trade Center Road"
+        ],
+        "cities": [
+            {
+                "name": "Abu Dhabi"
+            },
+            {
+                "name": "Ajman"
+            },
+            {
+                "name": "Al Ain"
+            },
+            {
+                "name": "Dibba Al-Fujairah"
+            },
+            {
+                "name": "Dubai"
+            },
+            {
+                "name": "Fujairah"
+            },
+            {
+                "name": "Khor Fakkan"
+            },
+            {
+                "name": "Ras Al Khaimah"
+            },
+            {
+                "name": "Sharjah"
+            },
+            {
+                "name": "Umm Al Quwain"
+            }
+        ],
+        "regions": [
+            "Abu Dhabi",
+            "Ajman",
+            "Dubai",
+            "Fujairah",
+            "Ras Al Khaimah",
+            "Sharjah",
+            "Umm Al Quwain"
+        ]
+    },
+    "AT": {
+        "country_name": "Austria",
+        "phone_format": "+43-XXX-XXXXXXX",
+        "streets": [
+            "Favoritenstraße",
+            "Hauptstraße",
+            "Kärntner Straße",
+            "Landstraßer Hauptstraße",
+            "Linzer Straße",
+            "Mariahilfer Straße",
+            "Ringstraße",
+            "Salzburger Straße",
+            "Wiener Straße",
+            "Währinger Straße"
+        ],
+        "cities": [
+            {
+                "name": "Bregenz"
+            },
+            {
+                "name": "Dornbirn"
+            },
+            {
+                "name": "Feldkirch"
+            },
+            {
+                "name": "Graz"
+            },
+            {
+                "name": "Innsbruck"
+            },
+            {
+                "name": "Klagenfurt"
+            },
+            {
+                "name": "Linz"
+            },
+            {
+                "name": "Salzburg"
+            },
+            {
+                "name": "Sankt Pölten"
+            },
+            {
+                "name": "Steyr"
+            },
+            {
+                "name": "Vienna"
+            },
+            {
+                "name": "Villach"
+            },
+            {
+                "name": "Wels"
+            },
+            {
+                "name": "Wiener Neustadt"
+            }
+        ],
+        "regions": [
+            "Burgenland",
+            "Carinthia",
+            "Lower Austria",
+            "Salzburg",
+            "Styria",
+            "Tyrol",
+            "Upper Austria",
+            "Vienna",
+            "Vorarlberg"
+        ]
+    },
+    "AZ": {
+        "country_name": "Azerbaijan",
+        "phone_format": "+994-XX-XXX-XX-XX",
+        "streets": [
+            "28 May Street",
+            "Azadliq Avenue",
+            "Baku Boulevard",
+            "Heydar Aliyev Avenue",
+            "Neftchilar Avenue",
+            "Nizami Street",
+            "Nobel Avenue",
+            "Rasul Rza Street",
+            "Tbilisi Avenue",
+            "Uzeyir Hajibeyov Street"
+        ],
+        "cities": [
+            {
+                "name": "Baku"
+            },
+            {
+                "name": "Ganja"
+            },
+            {
+                "name": "Guba"
+            },
+            {
+                "name": "Khankendi"
+            },
+            {
+                "name": "Lankaran"
+            },
+            {
+                "name": "Masalli"
+            },
+            {
+                "name": "Mingachevir"
+            },
+            {
+                "name": "Nakhchivan"
+            },
+            {
+                "name": "Qabala"
+            },
+            {
+                "name": "Shaki"
+            },
+            {
+                "name": "Shamakhi"
+            },
+            {
+                "name": "Shirvan"
+            },
+            {
+                "name": "Sumqayit"
+            },
+            {
+                "name": "Yevlakh"
+            }
+        ],
+        "regions": [
+            "Absheron",
+            "Aran",
+            "Daglig-Shirvan",
+            "Ganja-Qazakh",
+            "Kalbajar-Lachin",
+            "Lankaran",
+            "Nakhchivan",
+            "Quba-Khachmaz",
+            "Shaki-Zagatala",
+            "Yukhari-Karabakh"
+        ]
+    },
+    "BE": {
+        "country_name": "Belgium",
+        "phone_format": "+32-XXX-XX-XX-XX",
+        "streets": [
+            "Avenue Louise",
+            "Avenue de Tervuren",
+            "Avenue des Arts",
+            "Boulevard Anspach",
+            "Boulevard du Midi",
+            "Chaussée dIxelles",
+            "Chaussée de Waterloo",
+            "Rue Antoine Dansaert",
+            "Rue Neuve",
+            "Rue de la Loi"
+        ],
+        "cities": [
+            {
+                "name": "Aalst"
+            },
+            {
+                "name": "Antwerp"
+            },
+            {
+                "name": "Bruges"
+            },
+            {
+                "name": "Brussels"
+            },
+            {
+                "name": "Charleroi"
+            },
+            {
+                "name": "Ghent"
+            },
+            {
+                "name": "Hasselt"
+            },
+            {
+                "name": "Kortrijk"
+            },
+            {
+                "name": "La Louvière"
+            },
+            {
+                "name": "Leuven"
+            },
+            {
+                "name": "Liège"
+            },
+            {
+                "name": "Mechelen"
+            },
+            {
+                "name": "Mons"
+            },
+            {
+                "name": "Namur"
+            }
+        ],
+        "regions": [
+            "Antwerp",
+            "Brussels",
+            "East Flanders",
+            "Flanders",
+            "Flemish Brabant",
+            "Hainaut",
+            "Limburg",
+            "Liège",
+            "Luxembourg",
+            "Namur",
+            "Wallonia",
+            "Walloon Brabant",
+            "West Flanders"
+        ]
+    },
+    "BH": {
+        "country_name": "Bahrain",
+        "phone_format": "+973-XXXX-XXXX",
+        "streets": [
+            "Al Fatih Highway",
+            "Budaiya Highway",
+            "Diplomatic Area",
+            "Exhibition Avenue",
+            "Government Avenue",
+            "King Faisal Highway",
+            "Manama Road",
+            "Muharraq Road",
+            "Salmaniya Avenue",
+            "Sheikh Isa Bin Salman Highway"
+        ],
+        "cities": [
+            {
+                "name": "Adliya"
+            },
+            {
+                "name": "Al-Malikiyah"
+            },
+            {
+                "name": "Budaiya"
+            },
+            {
+                "name": "Hamad Town"
+            },
+            {
+                "name": "Isa Town"
+            },
+            {
+                "name": "Jidhafs"
+            },
+            {
+                "name": "Manama"
+            },
+            {
+                "name": "Muharraq"
+            },
+            {
+                "name": "Riffa"
+            },
+            {
+                "name": "Sitra"
+            }
+        ],
+        "regions": [
+            "Capital Governorate",
+            "Muharraq Governorate",
+            "Northern Governorate",
+            "Southern Governorate"
+        ]
+    },
+    "CH": {
+        "country_name": "Switzerland",
+        "phone_format": "+41-XX-XXX-XX-XX",
+        "streets": [
+            "Bahnhofstrasse",
+            "Europaallee",
+            "Langstrasse",
+            "Limmatquai",
+            "Paradeplatz",
+            "Sihlstrasse",
+            "Talstrasse",
+            "Uraniastrasse"
+        ],
+        "cities": [
+            {
+                "name": "Basel"
+            },
+            {
+                "name": "Bern"
+            },
+            {
+                "name": "Biel/Bienne"
+            },
+            {
+                "name": "Geneva"
+            },
+            {
+                "name": "Lausanne"
+            },
+            {
+                "name": "Lucerne"
+            },
+            {
+                "name": "Lugano"
+            },
+            {
+                "name": "St. Gallen"
+            },
+            {
+                "name": "Winterthur"
+            },
+            {
+                "name": "Zürich"
+            }
+        ],
+        "regions": [
+            "Aargau",
+            "Basel-Stadt",
+            "Bern",
+            "Geneva",
+            "Lucerne",
+            "St. Gallen",
+            "Vaud",
+            "Zürich"
+        ]
+    },
+    "CR": {
+        "country_name": "Costa Rica",
+        "phone_format": "+506-XXXX-XXXX",
+        "streets": [
+            "Autopista General Cañas",
+            "Avenida Central",
+            "Avenida Escazú",
+            "Avenida Segunda",
+            "Boulevard Rohrmoser",
+            "Calle Blancos",
+            "Calle de la Amargura",
+            "Circunvalación",
+            "Paseo Colón",
+            "Ruta 27"
+        ],
+        "cities": [
+            {
+                "name": "Alajuela"
+            },
+            {
+                "name": "Cartago"
+            },
+            {
+                "name": "Grecia"
+            },
+            {
+                "name": "Heredia"
+            },
+            {
+                "name": "Jacó"
+            },
+            {
+                "name": "Liberia"
+            },
+            {
+                "name": "Limón"
+            },
+            {
+                "name": "Paraíso"
+            },
+            {
+                "name": "Perez Zeledón"
+            },
+            {
+                "name": "Puntarenas"
+            },
+            {
+                "name": "Quepos"
+            },
+            {
+                "name": "San Isidro"
+            },
+            {
+                "name": "San José"
+            },
+            {
+                "name": "Turrialba"
+            }
+        ],
+        "regions": [
+            "Alajuela",
+            "Cartago",
+            "Guanacaste",
+            "Heredia",
+            "Limón",
+            "Puntarenas",
+            "San José"
+        ]
+    },
+    "CY": {
+        "country_name": "Cyprus",
+        "phone_format": "+357-XX-XXX-XXX",
+        "streets": [
+            "Byron Avenue",
+            "Evagoras Avenue",
+            "Gladstone Street",
+            "Griva Digeni Avenue",
+            "Kennedy Avenue",
+            "Ledra Street",
+            "Makarios Avenue",
+            "Onasagorou Street",
+            "Spyros Kyprianou Avenue",
+            "Stasinos Street"
+        ],
+        "cities": [
+            {
+                "name": "Ayia Napa"
+            },
+            {
+                "name": "Famagusta"
+            },
+            {
+                "name": "Kyrenia"
+            },
+            {
+                "name": "Larnaca"
+            },
+            {
+                "name": "Limassol"
+            },
+            {
+                "name": "Nicosia"
+            },
+            {
+                "name": "Paphos"
+            },
+            {
+                "name": "Paralimni"
+            },
+            {
+                "name": "Polis"
+            },
+            {
+                "name": "Protaras"
+            }
+        ],
+        "regions": [
+            "Famagusta",
+            "Kyrenia",
+            "Larnaca",
+            "Limassol",
+            "Nicosia",
+            "Paphos"
+        ]
+    },
+    "CZ": {
+        "country_name": "The Czech Republic",
+        "phone_format": "+420-XXX-XXX-XXX",
+        "streets": [
+            "Jungmannova",
+            "Karlova",
+            "Karlovo náměstí",
+            "Na Příkopě",
+            "Nerudova",
+            "Národní třída",
+            "Pařížská",
+            "Vinohradská",
+            "Václavské náměstí"
+        ],
+        "cities": [
+            {
+                "name": "Brno"
+            },
+            {
+                "name": "Hradec Králové"
+            },
+            {
+                "name": "Liberec"
+            },
+            {
+                "name": "Olomouc"
+            },
+            {
+                "name": "Ostrava"
+            },
+            {
+                "name": "Pardubice"
+            },
+            {
+                "name": "Plzeň"
+            },
+            {
+                "name": "Prague"
+            },
+            {
+                "name": "Ústí nad Labem"
+            },
+            {
+                "name": "České Budějovice"
+            }
+        ],
+        "regions": [
+            "Central Bohemia",
+            "Hradec Králové",
+            "Karlovy Vary",
+            "Liberec",
+            "Plzeň",
+            "Prague",
+            "South Bohemia",
+            "Ústí nad Labem"
+        ]
+    },
+    "DE": {
+        "country_name": "Germany",
+        "phone_format": "+49-XXX-XXXXXXX",
+        "streets": [
+            "Ahornstraße",
+            "Alexanderplatz",
+            "Am Markt",
+            "Bahnhofstraße",
+            "Beethovenstraße",
+            "Bergstraße",
+            "Berliner Straße",
+            "Birkenweg",
+            "Dorfstraße",
+            "Eichenweg",
+            "Friedhofstraße",
+            "Gartenstraße",
+            "Goethestraße",
+            "Hauptstraße",
+            "Kirchstraße",
+            "Kurfürstendamm",
+            "Königsallee",
+            "Lindenstraße",
+            "Marienplatz",
+            "Maximilianstraße",
+            "Mozartstraße",
+            "Mühlenstraße",
+            "Potsdamer Platz",
+            "Ringstraße",
+            "Rosenweg",
+            "Schillerstraße",
+            "Schulstraße",
+            "Tannenweg",
+            "Unter den Linden",
+            "Waldstraße"
+        ],
+        "cities": [
+            {
+                "name": "Augsburg"
+            },
+            {
+                "name": "Berlin"
+            },
+            {
+                "name": "Berlin",
+                "region": "Berlin"
+            },
+            {
+                "name": "Bielefeld"
+            },
+            {
+                "name": "Bochum"
+            },
+            {
+                "name": "Bonn"
+            },
+            {
+                "name": "Bremen"
+            },
+            {
+                "name": "Cologne"
+            },
+            {
+                "name": "Dortmund"
+            },
+            {
+                "name": "Dresden"
+            },
+            {
+                "name": "Duisburg"
+            },
+            {
+                "name": "Düsseldorf"
+            },
+            {
+                "name": "Düsseldorf",
+                "region": "Nordrhein-Westfalen"
+            },
+            {
+                "name": "Essen"
+            },
+            {
+                "name": "Frankfurt",
+                "region": "Hessen"
+            },
+            {
+                "name": "Frankfurt am Main"
+            },
+            {
+                "name": "Hamburg"
+            },
+            {
+                "name": "Hamburg",
+                "region": "Hamburg"
+            },
+            {
+                "name": "Hanover"
+            },
+            {
+                "name": "Karlsruhe"
+            },
+            {
+                "name": "Köln",
+                "region": "Nordrhein-Westfalen"
+            },
+            {
+                "name": "Leipzig"
+            },
+            {
+                "name": "Leipzig",
+                "region": "Sachsen"
+            },
+            {
+                "name": "Mannheim"
+            },
+            {
+                "name": "Munich"
+            },
+            {
+                "name": "München",
+                "region": "Bayern"
+            },
+            {
+                "name": "Münster"
+            },
+            {
+                "name": "Nuremberg"
+            },
+            {
+                "name": "Stuttgart"
+            },
+            {
+                "name": "Stuttgart",
+                "region": "Baden-Württemberg"
+            },
+            {
+                "name": "Wiesbaden"
+            },
+            {
+                "name": "Wuppertal"
+            }
+        ],
+        "regions": [
+            "Baden-Württemberg",
+            "Bavaria",
+            "Berlin",
+            "Brandenburg",
+            "Bremen",
+            "Hamburg",
+            "Hesse",
+            "Lower Saxony",
+            "Mecklenburg-Vorpommern",
+            "North Rhine-Westphalia",
+            "Rhineland-Palatinate",
+            "Saarland",
+            "Saxony",
+            "Saxony-Anhalt",
+            "Schleswig-Holstein",
+            "Thuringia"
+        ]
+    },
+    "DK": {
+        "country_name": "Denmark",
+        "phone_format": "+45-XX-XX-XX-XX",
+        "streets": [
+            "Amagerbrogade",
+            "Frederiksberg Allé",
+            "Gammel Kongevej",
+            "Gothersgade",
+            "Købmagergade",
+            "Nyhavn",
+            "Nørrebrogade",
+            "Strøget",
+            "Vesterbrogade",
+            "Østerbrogade"
+        ],
+        "cities": [
+            {
+                "name": "Aalborg"
+            },
+            {
+                "name": "Aarhus"
+            },
+            {
+                "name": "Copenhagen"
+            },
+            {
+                "name": "Esbjerg"
+            },
+            {
+                "name": "Frederiksberg"
+            },
+            {
+                "name": "Helsingør"
+            },
+            {
+                "name": "Herning"
+            },
+            {
+                "name": "Horsens"
+            },
+            {
+                "name": "Kolding"
+            },
+            {
+                "name": "Odense"
+            },
+            {
+                "name": "Randers"
+            },
+            {
+                "name": "Roskilde"
+            },
+            {
+                "name": "Silkeborg"
+            },
+            {
+                "name": "Vejle"
+            }
+        ],
+        "regions": [
+            "Capital Region",
+            "Central Denmark",
+            "North Denmark",
+            "Southern Denmark",
+            "Zealand"
+        ]
+    },
+    "DO": {
+        "country_name": "Dominican Republic",
+        "phone_format": "+1-809-XXX-XXXX",
+        "streets": [
+            "Avenida 27 de Febrero",
+            "Avenida Abraham Lincoln",
+            "Avenida Bolívar",
+            "Avenida George Washington",
+            "Avenida Independencia",
+            "Avenida John F. Kennedy",
+            "Avenida Núñez de Cáceres",
+            "Avenida Winston Churchill",
+            "Calle El Conde",
+            "Máximo Gómez"
+        ],
+        "cities": [
+            {
+                "name": "Boca Chica"
+            },
+            {
+                "name": "Bonao"
+            },
+            {
+                "name": "Concepción de La Vega"
+            },
+            {
+                "name": "Higüey"
+            },
+            {
+                "name": "La Romana"
+            },
+            {
+                "name": "Moca"
+            },
+            {
+                "name": "Puerto Plata"
+            },
+            {
+                "name": "San Cristóbal"
+            },
+            {
+                "name": "San Francisco de Macorís"
+            },
+            {
+                "name": "San Pedro de Macorís"
+            },
+            {
+                "name": "Santiago de los Caballeros"
+            },
+            {
+                "name": "Santo Domingo"
+            },
+            {
+                "name": "Santo Domingo Este"
+            },
+            {
+                "name": "Santo Domingo Oeste"
+            }
+        ],
+        "regions": [
+            "Distrito Nacional",
+            "Duarte",
+            "Espaillat",
+            "La Altagracia",
+            "La Romana",
+            "La Vega",
+            "Monseñor Nouel",
+            "Puerto Plata",
+            "San Cristóbal",
+            "San Pedro de Macorís",
+            "Santiago",
+            "Santo Domingo"
+        ]
+    },
+    "EE": {
+        "country_name": "Estonia",
+        "phone_format": "+372-XXXX-XXXX",
+        "streets": [
+            "Estonia puiestee",
+            "Gonsiori tänav",
+            "Lai tänav",
+            "Mere puiestee",
+            "Narva maantee",
+            "Pärnu maantee",
+            "Tallinna tänav",
+            "Tartu maantee",
+            "Vabaduse väljak",
+            "Viru tänav"
+        ],
+        "cities": [
+            {
+                "name": "Haapsalu"
+            },
+            {
+                "name": "Jõhvi"
+            },
+            {
+                "name": "Kohtla-Järve"
+            },
+            {
+                "name": "Kuressaare"
+            },
+            {
+                "name": "Maardu"
+            },
+            {
+                "name": "Narva"
+            },
+            {
+                "name": "Pärnu"
+            },
+            {
+                "name": "Rakvere"
+            },
+            {
+                "name": "Sillamäe"
+            },
+            {
+                "name": "Tallinn"
+            },
+            {
+                "name": "Tartu"
+            },
+            {
+                "name": "Valga"
+            },
+            {
+                "name": "Viljandi"
+            },
+            {
+                "name": "Võru"
+            }
+        ],
+        "regions": [
+            "Harju",
+            "Hiiu",
+            "Ida-Viru",
+            "Järva",
+            "Jõgeva",
+            "Lääne",
+            "Lääne-Viru",
+            "Pärnu",
+            "Põlva",
+            "Rapla",
+            "Saare",
+            "Tartu",
+            "Valga",
+            "Viljandi",
+            "Võru"
+        ]
+    },
+    "ES": {
+        "country_name": "Spain",
+        "phone_format": "+34-XXX-XXX-XXX",
+        "streets": [
+            "Avenida Diagonal",
+            "Avenida de América",
+            "Calle Alcalá",
+            "Calle Arenal",
+            "Calle Fuencarral",
+            "Calle Gran Vía",
+            "Calle Mayor",
+            "Calle Preciados",
+            "Calle Serrano",
+            "Calle Toledo",
+            "La Rambla",
+            "Paseo de Gracia",
+            "Paseo de la Castellana",
+            "Paseo del Prado"
+        ],
+        "cities": [
+            {
+                "name": "A Coruña"
+            },
+            {
+                "name": "Alicante"
+            },
+            {
+                "name": "Barcelona"
+            },
+            {
+                "name": "Bilbao"
+            },
+            {
+                "name": "Córdoba"
+            },
+            {
+                "name": "Elche"
+            },
+            {
+                "name": "Gijón"
+            },
+            {
+                "name": "Granada"
+            },
+            {
+                "name": "Hospitalet de Llobregat"
+            },
+            {
+                "name": "Las Palmas"
+            },
+            {
+                "name": "Madrid"
+            },
+            {
+                "name": "Murcia"
+            },
+            {
+                "name": "Málaga"
+            },
+            {
+                "name": "Palma"
+            },
+            {
+                "name": "Seville"
+            },
+            {
+                "name": "Valencia"
+            },
+            {
+                "name": "Valladolid"
+            },
+            {
+                "name": "Vigo"
+            },
+            {
+                "name": "Vitoria-Gasteiz"
+            },
+            {
+                "name": "Zaragoza"
+            }
+        ],
+        "regions": [
+            "Andalusia",
+            "Aragon",
+            "Asturias",
+            "Balearic Islands",
+            "Basque Country",
+            "Canary Islands",
+            "Castile and León",
+            "Castilla-La Mancha",
+            "Catalonia",
+            "Community of Madrid",
+            "Extremadura",
+            "Galicia",
+            "Murcia",
+            "Navarre",
+            "Valencian Community"
+        ]
+    },
+    "FI": {
+        "country_name": "Finland",
+        "phone_format": "+358-XX-XXX-XXXX",
+        "streets": [
+            "Aleksanterinkatu",
+            "Bulevardi",
+            "Esplanadi",
+            "Fredrikinkatu",
+            "Hämeentie",
+            "Iso Roobertinkatu",
+            "Kaivokatu",
+            "Mannerheimintie",
+            "Siltasaarenkatu",
+            "Unioninkatu"
+        ],
+        "cities": [
+            {
+                "name": "Espoo"
+            },
+            {
+                "name": "Helsinki"
+            },
+            {
+                "name": "Hämeenlinna"
+            },
+            {
+                "name": "Joensuu"
+            },
+            {
+                "name": "Jyväskylä"
+            },
+            {
+                "name": "Kouvola"
+            },
+            {
+                "name": "Kuopio"
+            },
+            {
+                "name": "Lahti"
+            },
+            {
+                "name": "Lappeenranta"
+            },
+            {
+                "name": "Oulu"
+            },
+            {
+                "name": "Pori"
+            },
+            {
+                "name": "Tampere"
+            },
+            {
+                "name": "Turku"
+            },
+            {
+                "name": "Vantaa"
+            }
+        ],
+        "regions": [
+            "Central Finland",
+            "Kanta-Häme",
+            "Lapland",
+            "North Ostrobothnia",
+            "Northern Savonia",
+            "Ostrobothnia",
+            "Pirkanmaa",
+            "Päijät-Häme",
+            "Satakunta",
+            "South Karelia",
+            "Southwest Finland",
+            "Uusimaa"
+        ]
+    },
+    "FR": {
+        "country_name": "France",
+        "phone_format": "+33-X-XX-XX-XX-XX",
+        "streets": [
+            "Avenue Jean Jaurès",
+            "Avenue Montaigne",
+            "Avenue Victor Hugo",
+            "Avenue de la Liberté",
+            "Avenue des Champs-Élysées",
+            "Boulevard Haussmann",
+            "Boulevard Saint-Germain",
+            "Boulevard Voltaire",
+            "Place de la Bastille",
+            "Rue Gambetta",
+            "Rue Nationale",
+            "Rue Pasteur",
+            "Rue Saint-Antoine",
+            "Rue Saint-Honoré",
+            "Rue Victor Hugo",
+            "Rue de Rivoli",
+            "Rue de Vaugirard",
+            "Rue de la Paix",
+            "Rue de la République",
+            "Rue des Fleurs",
+            "Rue du Commerce",
+            "Rue du Faubourg",
+            "Rue du Faubourg Saint-Honoré"
+        ],
+        "cities": [
+            {
+                "name": "Aix-en-Provence"
+            },
+            {
+                "name": "Amiens"
+            },
+            {
+                "name": "Angers"
+            },
+            {
+                "name": "Bordeaux"
+            },
+            {
+                "name": "Bordeaux"
+            },
+            {
+                "name": "Brest"
+            },
+            {
+                "name": "Dijon"
+            },
+            {
+                "name": "Grenoble"
+            },
+            {
+                "name": "Le Havre"
+            },
+            {
+                "name": "Le Mans"
+            },
+            {
+                "name": "Lille"
+            },
+            {
+                "name": "Lille"
+            },
+            {
+                "name": "Lyon"
+            },
+            {
+                "name": "Lyon"
+            },
+            {
+                "name": "Marseille"
+            },
+            {
+                "name": "Marseille"
+            },
+            {
+                "name": "Montpellier"
+            },
+            {
+                "name": "Nantes"
+            },
+            {
+                "name": "Nice"
+            },
+            {
+                "name": "Nice"
+            },
+            {
+                "name": "Nîmes"
+            },
+            {
+                "name": "Paris"
+            },
+            {
+                "name": "Paris"
+            },
+            {
+                "name": "Reims"
+            },
+            {
+                "name": "Rennes"
+            },
+            {
+                "name": "Saint-Étienne"
+            },
+            {
+                "name": "Strasbourg"
+            },
+            {
+                "name": "Strasbourg"
+            },
+            {
+                "name": "Toulon"
+            },
+            {
+                "name": "Toulouse"
+            },
+            {
+                "name": "Toulouse"
+            },
+            {
+                "name": "Tours"
+            }
+        ],
+        "regions": [
+            "Auvergne-Rhône-Alpes",
+            "Bourgogne-Franche-Comté",
+            "Bretagne",
+            "Centre-Val de Loire",
+            "Corse",
+            "Grand Est",
+            "Hauts-de-France",
+            "Normandie",
+            "Nouvelle-Aquitaine",
+            "Occitanie",
+            "Pays de la Loire",
+            "Provence-Alpes-Côte d'Azur",
+            "Île-de-France"
+        ]
+    },
+    "GT": {
+        "country_name": "Guatemala",
+        "phone_format": "+502-XXXX-XXXX",
+        "streets": [
+            "7 Avenida",
+            "Avenida Las Américas",
+            "Avenida Petapa",
+            "Avenida Reforma",
+            "Boulevard Los Próceres",
+            "Calzada Raúl Aguilar Batres",
+            "Calzada Roosevelt",
+            "Calzada San Juan",
+            "Diagonal 6",
+            "Sexta Avenida"
+        ],
+        "cities": [
+            {
+                "name": "Amatitlán"
+            },
+            {
+                "name": "Chimaltenango"
+            },
+            {
+                "name": "Chinautla"
+            },
+            {
+                "name": "Cobán"
+            },
+            {
+                "name": "Escuintla"
+            },
+            {
+                "name": "Guatemala City"
+            },
+            {
+                "name": "Huehuetenango"
+            },
+            {
+                "name": "Jalapa"
+            },
+            {
+                "name": "Mixco"
+            },
+            {
+                "name": "Puerto Barrios"
+            },
+            {
+                "name": "Quetzaltenango"
+            },
+            {
+                "name": "San Marcos"
+            },
+            {
+                "name": "Santa Lucía Cotzumalguapa"
+            },
+            {
+                "name": "Villa Nueva"
+            }
+        ],
+        "regions": [
+            "Alta Verapaz",
+            "Baja Verapaz",
+            "Chimaltenango",
+            "Chiquimula",
+            "El Progreso",
+            "Escuintla",
+            "Guatemala",
+            "Huehuetenango",
+            "Izabal",
+            "Jalapa",
+            "Jutiapa",
+            "Petén",
+            "Quetzaltenango",
+            "Quiché"
+        ]
+    },
+    "HR": {
+        "country_name": "Croatia",
+        "phone_format": "+385-XX-XXX-XXXX",
+        "streets": [
+            "Držićeva",
+            "Dubrovačka avenija",
+            "Ilica",
+            "Jadranska avenija",
+            "Maksimirska",
+            "Savska cesta",
+            "Trg bana Josipa Jelačića",
+            "Vlaška",
+            "Vukovarska",
+            "Vukovarska ulica"
+        ],
+        "cities": [
+            {
+                "name": "Bjelovar"
+            },
+            {
+                "name": "Dubrovnik"
+            },
+            {
+                "name": "Karlovac"
+            },
+            {
+                "name": "Osijek"
+            },
+            {
+                "name": "Pula"
+            },
+            {
+                "name": "Rijeka"
+            },
+            {
+                "name": "Sisak"
+            },
+            {
+                "name": "Slavonski Brod"
+            },
+            {
+                "name": "Split"
+            },
+            {
+                "name": "Varaždin"
+            },
+            {
+                "name": "Vinkovci"
+            },
+            {
+                "name": "Zadar"
+            },
+            {
+                "name": "Zagreb"
+            },
+            {
+                "name": "Šibenik"
+            }
+        ],
+        "regions": [
+            "Brod-Posavina",
+            "Dubrovnik-Neretva",
+            "Istria",
+            "Karlovac",
+            "Osijek-Baranja",
+            "Primorje-Gorski Kotar",
+            "Sisak-Moslavina",
+            "Split-Dalmatia",
+            "Varaždin",
+            "Zadar",
+            "Zagreb",
+            "Šibenik-Knin"
+        ]
+    },
+    "HU": {
+        "country_name": "Hungary",
+        "phone_format": "+36-XX-XXX-XXXX",
+        "streets": [
+            "Andrássy út",
+            "Bajcsy-Zsilinszky út",
+            "Dózsa György út",
+            "Ferenc körút",
+            "Kossuth Lajos utca",
+            "Margit körút",
+            "Nagykörút",
+            "Rákóczi út",
+            "Váci utca",
+            "Üllői út"
+        ],
+        "cities": [
+            {
+                "name": "Budapest"
+            },
+            {
+                "name": "Debrecen"
+            },
+            {
+                "name": "Eger"
+            },
+            {
+                "name": "Győr"
+            },
+            {
+                "name": "Kecskemét"
+            },
+            {
+                "name": "Miskolc"
+            },
+            {
+                "name": "Nyíregyháza"
+            },
+            {
+                "name": "Pécs"
+            },
+            {
+                "name": "Sopron"
+            },
+            {
+                "name": "Szeged"
+            },
+            {
+                "name": "Szombathely"
+            },
+            {
+                "name": "Székesfehérvár"
+            },
+            {
+                "name": "Tatabánya"
+            },
+            {
+                "name": "Veszprém"
+            }
+        ],
+        "regions": [
+            "Baranya",
+            "Borsod-Abaúj-Zemplén",
+            "Budapest",
+            "Bács-Kiskun",
+            "Csongrád",
+            "Fejér",
+            "Győr-Moson-Sopron",
+            "Hajdú-Bihar",
+            "Heves",
+            "Komárom-Esztergom",
+            "Pest",
+            "Szabolcs-Szatmár-Bereg",
+            "Vas",
+            "Veszprém"
+        ]
+    },
+    "IE": {
+        "country_name": "Ireland",
+        "phone_format": "+353-XX-XXX-XXXX",
+        "streets": [
+            "Abbey Street",
+            "Dame Street",
+            "Georges Street",
+            "Grafton Street",
+            "Henry Street",
+            "Nassau Street",
+            "O'Connell Street",
+            "Parnell Street",
+            "Pearse Street",
+            "Talbot Street"
+        ],
+        "cities": [
+            {
+                "name": "Bray"
+            },
+            {
+                "name": "Carlow"
+            },
+            {
+                "name": "Cork"
+            },
+            {
+                "name": "Drogheda"
+            },
+            {
+                "name": "Dublin"
+            },
+            {
+                "name": "Dundalk"
+            },
+            {
+                "name": "Ennis"
+            },
+            {
+                "name": "Galway"
+            },
+            {
+                "name": "Kilkenny"
+            },
+            {
+                "name": "Limerick"
+            },
+            {
+                "name": "Navan"
+            },
+            {
+                "name": "Swords"
+            },
+            {
+                "name": "Tralee"
+            },
+            {
+                "name": "Waterford"
+            }
+        ],
+        "regions": [
+            "Clare",
+            "Cork",
+            "Donegal",
+            "Dublin",
+            "Galway",
+            "Kerry",
+            "Kildare",
+            "Kilkenny",
+            "Limerick",
+            "Louth",
+            "Mayo",
+            "Meath",
+            "Tipperary",
+            "Waterford"
+        ]
+    },
+    "IL": {
+        "country_name": "Israel",
+        "phone_format": "+972-XX-XXX-XXXX",
+        "streets": [
+            "Allenby Street",
+            "Ben Gurion Boulevard",
+            "Ben Yehuda Street",
+            "Carmel Market",
+            "Dizengoff Street",
+            "Herzl Boulevard",
+            "Jaffa Road",
+            "King George Street",
+            "Nahalat Binyamin",
+            "Rothschild Boulevard"
+        ],
+        "cities": [
+            {
+                "name": "Ashdod"
+            },
+            {
+                "name": "Ashkelon"
+            },
+            {
+                "name": "Bat Yam"
+            },
+            {
+                "name": "Beersheba"
+            },
+            {
+                "name": "Bnei Brak"
+            },
+            {
+                "name": "Haifa"
+            },
+            {
+                "name": "Holon"
+            },
+            {
+                "name": "Jerusalem"
+            },
+            {
+                "name": "Netanya"
+            },
+            {
+                "name": "Petah Tikva"
+            },
+            {
+                "name": "Ramat Gan"
+            },
+            {
+                "name": "Rehovot"
+            },
+            {
+                "name": "Rishon LeZion"
+            },
+            {
+                "name": "Tel Aviv"
+            }
+        ],
+        "regions": [
+            "Central",
+            "Haifa",
+            "Jerusalem",
+            "Judea and Samaria",
+            "Northern",
+            "Southern",
+            "Tel Aviv"
+        ]
+    },
+    "IS": {
+        "country_name": "The Republic of Iceland",
+        "phone_format": "+354-XXX-XXXX",
+        "streets": [
+            "Austurstræti",
+            "Aðalstræti",
+            "Bankastræti",
+            "Hafnarstræti",
+            "Hverfisgata",
+            "Laugavegur",
+            "Lækjargata",
+            "Skólavörðustígur"
+        ],
+        "cities": [
+            {
+                "name": "Akranes"
+            },
+            {
+                "name": "Akureyri"
+            },
+            {
+                "name": "Arborg"
+            },
+            {
+                "name": "Fjardarbyggd"
+            },
+            {
+                "name": "Gardabaer"
+            },
+            {
+                "name": "Hafnarfjordur"
+            },
+            {
+                "name": "Kopavogur"
+            },
+            {
+                "name": "Mosfellsbaer"
+            },
+            {
+                "name": "Reykjanesbaer"
+            },
+            {
+                "name": "Reykjavik"
+            }
+        ],
+        "regions": [
+            "Capital Region",
+            "Eastern Region",
+            "Northeastern Region",
+            "Northwestern Region",
+            "Southern Peninsula",
+            "Southern Region",
+            "Western Region",
+            "Westfjords"
+        ]
+    },
+    "IT": {
+        "country_name": "Italy",
+        "phone_format": "+39-XXX-XXX-XXXX",
+        "streets": [
+            "Corso Buenos Aires",
+            "Corso Francia",
+            "Corso Italia",
+            "Corso Vittorio Emanuele",
+            "Piazza della Repubblica",
+            "Via Cavour",
+            "Via Dante",
+            "Via Garibaldi",
+            "Via Mazzini",
+            "Via Milano",
+            "Via Nazionale",
+            "Via Roma",
+            "Via Torino",
+            "Via Veneto",
+            "Via del Corso"
+        ],
+        "cities": [
+            {
+                "name": "Bari"
+            },
+            {
+                "name": "Bologna"
+            },
+            {
+                "name": "Brescia"
+            },
+            {
+                "name": "Catania"
+            },
+            {
+                "name": "Florence"
+            },
+            {
+                "name": "Genoa"
+            },
+            {
+                "name": "Messina"
+            },
+            {
+                "name": "Milan"
+            },
+            {
+                "name": "Modena"
+            },
+            {
+                "name": "Naples"
+            },
+            {
+                "name": "Padua"
+            },
+            {
+                "name": "Palermo"
+            },
+            {
+                "name": "Parma"
+            },
+            {
+                "name": "Prato"
+            },
+            {
+                "name": "Rome"
+            },
+            {
+                "name": "Taranto"
+            },
+            {
+                "name": "Trieste"
+            },
+            {
+                "name": "Turin"
+            },
+            {
+                "name": "Venice"
+            },
+            {
+                "name": "Verona"
+            }
+        ],
+        "regions": [
+            "Abruzzo",
+            "Apulia",
+            "Calabria",
+            "Campania",
+            "Emilia-Romagna",
+            "Friuli-Venezia Giulia",
+            "Lazio",
+            "Liguria",
+            "Lombardy",
+            "Marche",
+            "Piedmont",
+            "Sardinia",
+            "Sicily",
+            "Tuscany",
+            "Veneto"
+        ]
+    },
+    "JO": {
+        "country_name": "Jordan",
+        "phone_format": "+962-X-XXXX-XXXX",
+        "streets": [
+            "Abdoun Circle",
+            "Al-Madinah Al-Munawarah Street",
+            "Gardens Street",
+            "King Hussein Street",
+            "Mecca Street",
+            "Prince Shaker Bin Zaid Street",
+            "Queen Rania Street",
+            "Rainbow Street",
+            "Wasfi Al-Tall Street",
+            "Zahran Street"
+        ],
+        "cities": [
+            {
+                "name": "Ajloun"
+            },
+            {
+                "name": "Amman"
+            },
+            {
+                "name": "Aqaba"
+            },
+            {
+                "name": "Irbid"
+            },
+            {
+                "name": "Jerash"
+            },
+            {
+                "name": "Karak"
+            },
+            {
+                "name": "Maan"
+            },
+            {
+                "name": "Madaba"
+            },
+            {
+                "name": "Mafraq"
+            },
+            {
+                "name": "Russeifa"
+            },
+            {
+                "name": "Sahab"
+            },
+            {
+                "name": "Salt"
+            },
+            {
+                "name": "Tafila"
+            },
+            {
+                "name": "Zarqa"
+            }
+        ],
+        "regions": [
+            "Ajloun",
+            "Amman",
+            "Aqaba",
+            "Balqa",
+            "Irbid",
+            "Jerash",
+            "Karak",
+            "Maan",
+            "Madaba",
+            "Mafraq",
+            "Tafila",
+            "Zarqa"
+        ]
+    },
+    "KW": {
+        "country_name": "Kuwait",
+        "phone_format": "+965-XXXX-XXXX",
+        "streets": [
+            "Abdullah Al Mubarak Street",
+            "Ahmed Al Jaber Street",
+            "Al Hilali Street",
+            "Al Soor Street",
+            "Arabian Gulf Street",
+            "Baghdad Street",
+            "Fahad Al Salem Street",
+            "Jaber Al Ahmad Street",
+            "Mubarak Al Kabeer Street",
+            "Salem Al Mubarak Street"
+        ],
+        "cities": [
+            {
+                "name": "Al Ahmadi"
+            },
+            {
+                "name": "Al Fahahil"
+            },
+            {
+                "name": "Al Farwaniyah"
+            },
+            {
+                "name": "Al Jahra"
+            },
+            {
+                "name": "Ar Riqqah"
+            },
+            {
+                "name": "Ar Rumaithiyah"
+            },
+            {
+                "name": "As Salimiyah"
+            },
+            {
+                "name": "Hawalli"
+            },
+            {
+                "name": "Kuwait City"
+            },
+            {
+                "name": "Sabah as Salim"
+            }
+        ],
+        "regions": [
+            "Al Ahmadi",
+            "Al Asimah",
+            "Al Farwaniyah",
+            "Al Jahra",
+            "Hawalli",
+            "Mubarak Al-Kabeer"
+        ]
+    },
+    "KZ": {
+        "country_name": "Kazakhstan",
+        "phone_format": "+7-XXX-XXX-XX-XX",
+        "streets": [
+            "Abay Avenue",
+            "Al-Farabi Avenue",
+            "Auezov Street",
+            "Dostyk Avenue",
+            "Furmanov Street",
+            "Kabanbay Batyr Avenue",
+            "Pushkin Street",
+            "Respublika Avenue",
+            "Samal Avenue",
+            "Zheltoksan Street"
+        ],
+        "cities": [
+            {
+                "name": "Aktau"
+            },
+            {
+                "name": "Aktobe"
+            },
+            {
+                "name": "Almaty"
+            },
+            {
+                "name": "Atyrau"
+            },
+            {
+                "name": "Karaganda"
+            },
+            {
+                "name": "Kostanay"
+            },
+            {
+                "name": "Kyzylorda"
+            },
+            {
+                "name": "Nur-Sultan"
+            },
+            {
+                "name": "Oral"
+            },
+            {
+                "name": "Pavlodar"
+            },
+            {
+                "name": "Semey"
+            },
+            {
+                "name": "Shymkent"
+            },
+            {
+                "name": "Taraz"
+            },
+            {
+                "name": "Ust-Kamenogorsk"
+            }
+        ],
+        "regions": [
+            "Akmola",
+            "Aktobe",
+            "Almaty",
+            "Almaty Region",
+            "Atyrau",
+            "East Kazakhstan",
+            "Jambyl",
+            "Karaganda",
+            "Kostanay",
+            "Kyzylorda",
+            "Mangystau",
+            "North Kazakhstan",
+            "Nur-Sultan",
+            "Pavlodar",
+            "Shymkent",
+            "Turkestan",
+            "West Kazakhstan"
+        ]
+    },
+    "LT": {
+        "country_name": "Lithuania",
+        "phone_format": "+370-XXX-XXXXX",
+        "streets": [
+            "Gedimino prospektas",
+            "Kalvarijų gatvė",
+            "Konstitucijos prospektas",
+            "Laisvės alėja",
+            "Savanorių prospektas",
+            "Tauro gatvė",
+            "Ukmergės gatvė",
+            "Verkių gatvė",
+            "Vilniaus gatvė",
+            "Šeimyniškių gatvė"
+        ],
+        "cities": [
+            {
+                "name": "Alytus"
+            },
+            {
+                "name": "Jonava"
+            },
+            {
+                "name": "Kaunas"
+            },
+            {
+                "name": "Klaipėda"
+            },
+            {
+                "name": "Kėdainiai"
+            },
+            {
+                "name": "Marijampolė"
+            },
+            {
+                "name": "Mažeikiai"
+            },
+            {
+                "name": "Panevėžys"
+            },
+            {
+                "name": "Tauragė"
+            },
+            {
+                "name": "Telšiai"
+            },
+            {
+                "name": "Ukmergė"
+            },
+            {
+                "name": "Utena"
+            },
+            {
+                "name": "Vilnius"
+            },
+            {
+                "name": "Šiauliai"
+            }
+        ],
+        "regions": [
+            "Alytus County",
+            "Kaunas County",
+            "Klaipėda County",
+            "Marijampolė County",
+            "Panevėžys County",
+            "Tauragė County",
+            "Telšiai County",
+            "Utena County",
+            "Vilnius County",
+            "Šiauliai County"
+        ]
+    },
+    "LU": {
+        "country_name": "Luxembourg",
+        "phone_format": "+352-XXX-XXX-XXX",
+        "streets": [
+            "Avenue Gaston Diderich",
+            "Avenue Monterey",
+            "Avenue de la Gare",
+            "Avenue de la Liberté",
+            "Boulevard Royal",
+            "Boulevard de la Pétrusse",
+            "Grand Rue",
+            "Route dArlon",
+            "Rue Aldringen",
+            "Rue du Fort Neipperg"
+        ],
+        "cities": [
+            {
+                "name": "Diekirch"
+            },
+            {
+                "name": "Differdange"
+            },
+            {
+                "name": "Dudelange"
+            },
+            {
+                "name": "Echternach"
+            },
+            {
+                "name": "Esch-sur-Alzette"
+            },
+            {
+                "name": "Ettelbruck"
+            },
+            {
+                "name": "Grevenmacher"
+            },
+            {
+                "name": "Luxembourg City"
+            },
+            {
+                "name": "Rumelange"
+            },
+            {
+                "name": "Wiltz"
+            }
+        ],
+        "regions": [
+            "Capellen",
+            "Clervaux",
+            "Diekirch",
+            "Echternach",
+            "Esch-sur-Alzette",
+            "Grevenmacher",
+            "Luxembourg",
+            "Mersch",
+            "Redange",
+            "Remich",
+            "Vianden",
+            "Wiltz"
+        ]
+    },
+    "LV": {
+        "country_name": "Latvia",
+        "phone_format": "+371-XX-XXX-XXX",
+        "streets": [
+            "Blaumaņa iela",
+            "Brīvības iela",
+            "Elizabetes iela",
+            "Gertrūdes iela",
+            "Kr. Barona iela",
+            "Krasta iela",
+            "Lāčplēša iela",
+            "Maskavas iela",
+            "Stabu iela",
+            "Tērbatas iela"
+        ],
+        "cities": [
+            {
+                "name": "Cēsis"
+            },
+            {
+                "name": "Daugavpils"
+            },
+            {
+                "name": "Jelgava"
+            },
+            {
+                "name": "Jēkabpils"
+            },
+            {
+                "name": "Jūrmala"
+            },
+            {
+                "name": "Kuldīga"
+            },
+            {
+                "name": "Liepāja"
+            },
+            {
+                "name": "Ogre"
+            },
+            {
+                "name": "Riga"
+            },
+            {
+                "name": "Rēzekne"
+            },
+            {
+                "name": "Salaspils"
+            },
+            {
+                "name": "Tukums"
+            },
+            {
+                "name": "Valmiera"
+            },
+            {
+                "name": "Ventspils"
+            }
+        ],
+        "regions": [
+            "Kurzeme",
+            "Latgale",
+            "Riga",
+            "Vidzeme",
+            "Zemgale"
+        ]
+    },
+    "MD": {
+        "country_name": "Moldova",
+        "phone_format": "+373-XXXX-XXXX",
+        "streets": [
+            "Bulevardul Dacia",
+            "Bulevardul Negruzzi",
+            "Bulevardul Stefan cel Mare",
+            "Strada 31 August 1989",
+            "Strada Armeneasca",
+            "Strada Bucuresti",
+            "Strada Ismail",
+            "Strada Mitropolit Varlaam",
+            "Strada Puskin"
+        ],
+        "cities": [
+            {
+                "name": "Balti"
+            },
+            {
+                "name": "Bender"
+            },
+            {
+                "name": "Cahul"
+            },
+            {
+                "name": "Chisinau"
+            },
+            {
+                "name": "Comrat"
+            },
+            {
+                "name": "Orhei"
+            },
+            {
+                "name": "Rîbnita"
+            },
+            {
+                "name": "Soroca"
+            },
+            {
+                "name": "Tiraspol"
+            },
+            {
+                "name": "Ungheni"
+            }
+        ],
+        "regions": [
+            "Anenii Noi",
+            "Balti",
+            "Basarabeasca",
+            "Briceni",
+            "Cahul",
+            "Chisinau",
+            "Gagauzia",
+            "Transnistria"
+        ]
+    },
+    "MT": {
+        "country_name": "Malta",
+        "phone_format": "+356-XXXX-XXXX",
+        "streets": [
+            "Independence Avenue",
+            "Main Street",
+            "Merchants Street",
+            "Republic Street",
+            "Santa Lucija Avenue",
+            "St Johns Street",
+            "St Pauls Street",
+            "Tower Road",
+            "Triq il-Kbira"
+        ],
+        "cities": [
+            {
+                "name": "Birkirkara"
+            },
+            {
+                "name": "Fgura"
+            },
+            {
+                "name": "Mosta"
+            },
+            {
+                "name": "Naxxar"
+            },
+            {
+                "name": "Qormi"
+            },
+            {
+                "name": "Rabat"
+            },
+            {
+                "name": "Sliema"
+            },
+            {
+                "name": "Valletta"
+            },
+            {
+                "name": "Zabbar"
+            },
+            {
+                "name": "Zejtun"
+            }
+        ],
+        "regions": [
+            "Gozo and Comino",
+            "Northern",
+            "Northern Harbour",
+            "South Eastern",
+            "Southern Harbour",
+            "Western"
+        ]
+    },
+    "MU": {
+        "country_name": "Mauritius",
+        "phone_format": "+230-XXXX-XXXX",
+        "streets": [
+            "Desforges Street",
+            "Emmanuel Anquetil Street",
+            "Jummah Mosque Street",
+            "Les Pailles Road",
+            "Pope Hennessy Street",
+            "Royal Road",
+            "Sir Seewoosagur Ramgoolam Street",
+            "Sir Virgil Naz Street",
+            "St Georges Street"
+        ],
+        "cities": [
+            {
+                "name": "Beau Bassin-Rose Hill"
+            },
+            {
+                "name": "Centre de Flacq"
+            },
+            {
+                "name": "Curepipe"
+            },
+            {
+                "name": "Goodlands"
+            },
+            {
+                "name": "Mahebourg"
+            },
+            {
+                "name": "Port Louis"
+            },
+            {
+                "name": "Quatre Bornes"
+            },
+            {
+                "name": "Saint Pierre"
+            },
+            {
+                "name": "Triolet"
+            },
+            {
+                "name": "Vacoas-Phoenix"
+            }
+        ],
+        "regions": [
+            "Black River",
+            "Flacq",
+            "Grand Port",
+            "Moka",
+            "Pamplemousses",
+            "Plaines Wilhems",
+            "Port Louis",
+            "Rivière du Rempart",
+            "Savanne"
+        ]
+    },
+    "NL": {
+        "country_name": "Netherlands",
+        "phone_format": "+31-X-XXXX-XXXX",
+        "streets": [
+            "Centrum",
+            "Damrak",
+            "De Pijp",
+            "Herengracht",
+            "Jordaan",
+            "Kalverstraat",
+            "Keizersgracht",
+            "Leidseplein",
+            "Museumplein",
+            "Nieuw-West",
+            "Nieuwmarkt",
+            "Noord",
+            "Oost",
+            "Oud-Zuid",
+            "Prinsengracht",
+            "Rembrandtplein",
+            "Vondelpark",
+            "West",
+            "Zuid",
+            "Zuidoost"
+        ],
+        "cities": [
+            {
+                "name": "Almere"
+            },
+            {
+                "name": "Amersfoort"
+            },
+            {
+                "name": "Amsterdam"
+            },
+            {
+                "name": "Apeldoorn"
+            },
+            {
+                "name": "Arnhem"
+            },
+            {
+                "name": "Breda"
+            },
+            {
+                "name": "Deventer"
+            },
+            {
+                "name": "Dordrecht"
+            },
+            {
+                "name": "Eindhoven"
+            },
+            {
+                "name": "Enschede"
+            },
+            {
+                "name": "Groningen"
+            },
+            {
+                "name": "Haarlem"
+            },
+            {
+                "name": "Hoofddorp"
+            },
+            {
+                "name": "Leiden"
+            },
+            {
+                "name": "Maastricht"
+            },
+            {
+                "name": "Nijmegen"
+            },
+            {
+                "name": "Rotterdam"
+            },
+            {
+                "name": "S-Hertogenbosch"
+            },
+            {
+                "name": "The Hague"
+            },
+            {
+                "name": "Tilburg"
+            },
+            {
+                "name": "Utrecht"
+            },
+            {
+                "name": "Zaanstad"
+            },
+            {
+                "name": "Zoetermeer"
+            },
+            {
+                "name": "Zwolle"
+            }
+        ],
+        "regions": [
+            "Drenthe",
+            "Flevoland",
+            "Friesland",
+            "Gelderland",
+            "Groningen",
+            "Limburg",
+            "North Brabant",
+            "North Holland",
+            "Overijssel",
+            "South Holland",
+            "Utrecht",
+            "Zeeland"
+        ]
+    },
+    "NO": {
+        "country_name": "Norway",
+        "phone_format": "+47-XXX-XX-XXX",
+        "streets": [
+            "Bogstadveien",
+            "Bygdøy Allé",
+            "Grensen",
+            "Karl Johans gate",
+            "Markveien",
+            "Møllergata",
+            "Prinsens gate",
+            "Stortingsgata",
+            "Thorvald Meyers gate"
+        ],
+        "cities": [
+            {
+                "name": "Bergen"
+            },
+            {
+                "name": "Drammen"
+            },
+            {
+                "name": "Fredrikstad"
+            },
+            {
+                "name": "Kristiansand"
+            },
+            {
+                "name": "Oslo"
+            },
+            {
+                "name": "Sandnes"
+            },
+            {
+                "name": "Sarpsborg"
+            },
+            {
+                "name": "Stavanger"
+            },
+            {
+                "name": "Tromsø"
+            },
+            {
+                "name": "Trondheim"
+            }
+        ],
+        "regions": [
+            "Agder",
+            "Nordland",
+            "Oslo",
+            "Rogaland",
+            "Troms og Finnmark",
+            "Trøndelag",
+            "Vestland",
+            "Viken"
+        ]
+    },
+    "PK": {
+        "country_name": "Pakistan",
+        "phone_format": "+92-XXX-XXXXXXX",
+        "streets": [
+            "Canal Road",
+            "Clifton Road",
+            "Defence Housing Authority",
+            "GT Road",
+            "Gulberg Main Boulevard",
+            "Gulshan-e-Iqbal",
+            "Jail Road",
+            "Korangi Road",
+            "Liberty Market",
+            "Mall Road",
+            "Nazimabad Road",
+            "PECHS Road",
+            "Saddar Road",
+            "Shahrah-e-Faisal",
+            "Tariq Road",
+            "University Road"
+        ],
+        "cities": [
+            {
+                "name": "Bahawalpur"
+            },
+            {
+                "name": "Dera Ghazi Khan"
+            },
+            {
+                "name": "Faisalabad"
+            },
+            {
+                "name": "Gujranwala"
+            },
+            {
+                "name": "Gujrat"
+            },
+            {
+                "name": "Hyderabad"
+            },
+            {
+                "name": "Islamabad"
+            },
+            {
+                "name": "Jhang"
+            },
+            {
+                "name": "Karachi"
+            },
+            {
+                "name": "Kasur"
+            },
+            {
+                "name": "Lahore"
+            },
+            {
+                "name": "Larkana"
+            },
+            {
+                "name": "Mardan"
+            },
+            {
+                "name": "Mingora"
+            },
+            {
+                "name": "Multan"
+            },
+            {
+                "name": "Peshawar"
+            },
+            {
+                "name": "Quetta"
+            },
+            {
+                "name": "Rahim Yar Khan"
+            },
+            {
+                "name": "Rawalpindi"
+            },
+            {
+                "name": "Sahiwal"
+            },
+            {
+                "name": "Sargodha"
+            },
+            {
+                "name": "Sheikhupura"
+            },
+            {
+                "name": "Sialkot"
+            },
+            {
+                "name": "Sukkur"
+            }
+        ],
+        "regions": [
+            "Azad Jammu and Kashmir",
+            "Balochistan",
+            "Gilgit-Baltistan",
+            "Islamabad Capital Territory",
+            "Khyber Pakhtunkhwa",
+            "Punjab",
+            "Sindh"
+        ]
+    },
+    "PL": {
+        "country_name": "Poland",
+        "phone_format": "+48-XXX-XXX-XXX",
+        "streets": [
+            "Aleje Jerozolimskie",
+            "Aleje Solidarności",
+            "Rynek Główny",
+            "ulica Długa",
+            "ulica Floriańska",
+            "ulica Grójec ka",
+            "ulica Karmelicka",
+            "ulica Krakowskie Przedmieście",
+            "ulica Marszałkowska",
+            "ulica Nowy Świat",
+            "ulica Piotrkowska",
+            "ulica Puławska",
+            "ulica Wały Jagiellońskie",
+            "ulica Świętokrzyska"
+        ],
+        "cities": [
+            {
+                "name": "Białystok"
+            },
+            {
+                "name": "Bydgoszcz"
+            },
+            {
+                "name": "Bytom"
+            },
+            {
+                "name": "Częstochowa"
+            },
+            {
+                "name": "Gdańsk"
+            },
+            {
+                "name": "Gdynia"
+            },
+            {
+                "name": "Gliwice"
+            },
+            {
+                "name": "Katowice"
+            },
+            {
+                "name": "Kielce"
+            },
+            {
+                "name": "Kraków"
+            },
+            {
+                "name": "Lublin"
+            },
+            {
+                "name": "Poznań"
+            },
+            {
+                "name": "Radom"
+            },
+            {
+                "name": "Sosnowiec"
+            },
+            {
+                "name": "Szczecin"
+            },
+            {
+                "name": "Toruń"
+            },
+            {
+                "name": "Warsaw"
+            },
+            {
+                "name": "Wrocław"
+            },
+            {
+                "name": "Zabrze"
+            },
+            {
+                "name": "Łódź"
+            }
+        ],
+        "regions": [
+            "Greater Poland",
+            "Kuyavian-Pomeranian",
+            "Lesser Poland",
+            "Lower Silesian",
+            "Lublin",
+            "Lubusz",
+            "Masovian",
+            "Opole",
+            "Podlaskie",
+            "Pomeranian",
+            "Silesian",
+            "Subcarpathian",
+            "Warmian-Masurian",
+            "West Pomeranian",
+            "Łódź",
+            "Świętokrzyskie"
+        ]
+    },
+    "PT": {
+        "country_name": "Portuguese",
+        "phone_format": "+351-XXX-XXX-XXX",
+        "streets": [
+            "Avenida Almirante Reis",
+            "Avenida Fontes Pereira de Melo",
+            "Avenida da Liberdade",
+            "Praça do Comércio",
+            "Rua Augusta",
+            "Rua Garrett",
+            "Rua da Prata",
+            "Rua do Carmo"
+        ],
+        "cities": [
+            {
+                "name": "Agualva-Cacém"
+            },
+            {
+                "name": "Almada"
+            },
+            {
+                "name": "Amadora"
+            },
+            {
+                "name": "Braga"
+            },
+            {
+                "name": "Coimbra"
+            },
+            {
+                "name": "Funchal"
+            },
+            {
+                "name": "Lisbon"
+            },
+            {
+                "name": "Porto"
+            },
+            {
+                "name": "Setúbal"
+            },
+            {
+                "name": "Vila Nova de Gaia"
+            }
+        ],
+        "regions": [
+            "Aveiro",
+            "Braga",
+            "Coimbra",
+            "Faro",
+            "Lisbon",
+            "Porto",
+            "Santarém",
+            "Setúbal"
+        ]
+    },
+    "QA": {
+        "country_name": "Qatar",
+        "phone_format": "+974-XXXX-XXXX",
+        "streets": [
+            "Airport Road",
+            "Al Matar Street",
+            "Al Rayyan Road",
+            "Al Sadd Street",
+            "Al Waab Street",
+            "C Ring Road",
+            "Corniche Street",
+            "Ras Abu Aboud Street",
+            "Salwa Road"
+        ],
+        "cities": [
+            {
+                "name": "Al Daayen"
+            },
+            {
+                "name": "Al Khor"
+            },
+            {
+                "name": "Al Rayyan"
+            },
+            {
+                "name": "Al Wakrah"
+            },
+            {
+                "name": "Doha"
+            },
+            {
+                "name": "Dukhan"
+            },
+            {
+                "name": "Lusail"
+            },
+            {
+                "name": "Madinat ash Shamal"
+            },
+            {
+                "name": "Mesaieed"
+            },
+            {
+                "name": "Umm Salal"
+            }
+        ],
+        "regions": [
+            "Al Daayen",
+            "Al Khor",
+            "Al Rayyan",
+            "Al Shamal",
+            "Al Wakrah",
+            "Doha",
+            "Umm Salal"
+        ]
+    },
+    "RO": {
+        "country_name": "Romania",
+        "phone_format": "+40-XXX-XXX-XXX",
+        "streets": [
+            "Bulevardul Carol I",
+            "Bulevardul Magheru",
+            "Bulevardul Nicolae Bălcescu",
+            "Bulevardul Unirii",
+            "Calea Dorobanților",
+            "Calea Victoriei",
+            "Strada Franceza",
+            "Strada Lipscani"
+        ],
+        "cities": [
+            {
+                "name": "Brașov"
+            },
+            {
+                "name": "Bucharest"
+            },
+            {
+                "name": "Cluj-Napoca"
+            },
+            {
+                "name": "Constanța"
+            },
+            {
+                "name": "Craiova"
+            },
+            {
+                "name": "Galați"
+            },
+            {
+                "name": "Iași"
+            },
+            {
+                "name": "Oradea"
+            },
+            {
+                "name": "Ploiești"
+            },
+            {
+                "name": "Timișoara"
+            }
+        ],
+        "regions": [
+            "Brașov",
+            "Bucharest",
+            "Cluj",
+            "Constanța",
+            "Dolj",
+            "Galați",
+            "Iași",
+            "Timiș"
+        ]
+    },
+    "SE": {
+        "country_name": "Sweden",
+        "phone_format": "+46-XX-XXX-XXXX",
+        "streets": [
+            "Birger Jarlsgatan",
+            "Drottninggatan",
+            "Götgatan",
+            "Hamngatan",
+            "Kungsgatan",
+            "Odengatan",
+            "Strandvägen",
+            "Sveavägen",
+            "Vasagatan"
+        ],
+        "cities": [
+            {
+                "name": "Göteborg"
+            },
+            {
+                "name": "Helsingborg"
+            },
+            {
+                "name": "Jönköping"
+            },
+            {
+                "name": "Linköping"
+            },
+            {
+                "name": "Malmö"
+            },
+            {
+                "name": "Norrköping"
+            },
+            {
+                "name": "Stockholm"
+            },
+            {
+                "name": "Uppsala"
+            },
+            {
+                "name": "Västerås"
+            },
+            {
+                "name": "Örebro"
+            }
+        ],
+        "regions": [
+            "Halland",
+            "Skåne",
+            "Stockholm",
+            "Uppsala",
+            "Västmanland",
+            "Västra Götaland",
+            "Örebro",
+            "Östergötland"
+        ]
+    },
+    "SI": {
+        "country_name": "Slovenia",
+        "phone_format": "+386-XX-XXX-XXX",
+        "streets": [
+            "Celovška cesta",
+            "Dunajska cesta",
+            "Njegoševa cesta",
+            "Slovenska cesta",
+            "Titova cesta",
+            "Tržaška cesta",
+            "Zaloška cesta",
+            "Šmartinska cesta"
+        ],
+        "cities": [
+            {
+                "name": "Celje"
+            },
+            {
+                "name": "Kamnik"
+            },
+            {
+                "name": "Koper"
+            },
+            {
+                "name": "Kranj"
+            },
+            {
+                "name": "Ljubljana"
+            },
+            {
+                "name": "Maribor"
+            },
+            {
+                "name": "Novo Mesto"
+            },
+            {
+                "name": "Ptuj"
+            },
+            {
+                "name": "Trbovlje"
+            },
+            {
+                "name": "Velenje"
+            }
+        ],
+        "regions": [
+            "Gorenjska",
+            "Goriška",
+            "Koroška",
+            "Obalno-kraška",
+            "Osrednjeslovenska",
+            "Podravska",
+            "Posavska",
+            "Savinjska"
+        ]
+    },
+    "SK": {
+        "country_name": "Slovakia",
+        "phone_format": "+421-XXX-XXX-XXX",
+        "streets": [
+            "Dunajská ulica",
+            "Hlavná ulica",
+            "Hodžovo námestie",
+            "Laurinská ulica",
+            "Nám. SNP",
+            "Obchodná ulica",
+            "Štefánikova ulica",
+            "Štúrova ulica"
+        ],
+        "cities": [
+            {
+                "name": "Banská Bystrica"
+            },
+            {
+                "name": "Bratislava"
+            },
+            {
+                "name": "Košice"
+            },
+            {
+                "name": "Martin"
+            },
+            {
+                "name": "Nitra"
+            },
+            {
+                "name": "Poprad"
+            },
+            {
+                "name": "Prešov"
+            },
+            {
+                "name": "Trenčín"
+            },
+            {
+                "name": "Trnava"
+            },
+            {
+                "name": "Žilina"
+            }
+        ],
+        "regions": [
+            "Banská Bystrica",
+            "Bratislava",
+            "Košice",
+            "Nitra",
+            "Prešov",
+            "Trenčín",
+            "Trnava",
+            "Žilina"
+        ]
+    },
+    "SV": {
+        "country_name": "El Salvador",
+        "phone_format": "+503-XXXX-XXXX",
+        "streets": [
+            "49 Avenida Norte",
+            "Alameda Roosevelt",
+            "Avenida España",
+            "Avenida Masferrer",
+            "Avenida Roosevelt",
+            "Boulevard de los Héroes",
+            "Boulevard del Hipódromo",
+            "Calle Arce",
+            "Paseo General Escalón",
+            "Paseo Independencia"
+        ],
+        "cities": [
+            {
+                "name": "Ahuachapán"
+            },
+            {
+                "name": "Apopa"
+            },
+            {
+                "name": "Chalchuapa"
+            },
+            {
+                "name": "Delgado"
+            },
+            {
+                "name": "La Libertad"
+            },
+            {
+                "name": "Mejicanos"
+            },
+            {
+                "name": "San Miguel"
+            },
+            {
+                "name": "San Salvador"
+            },
+            {
+                "name": "San Vicente"
+            },
+            {
+                "name": "Santa Ana"
+            },
+            {
+                "name": "Santa Tecla"
+            },
+            {
+                "name": "Soyapango"
+            },
+            {
+                "name": "Usulután"
+            },
+            {
+                "name": "Zacatecoluca"
+            }
+        ],
+        "regions": [
+            "Ahuachapán",
+            "Cabañas",
+            "Chalatenango",
+            "Cuscatlán",
+            "La Libertad",
+            "La Paz",
+            "La Unión",
+            "Morazán",
+            "San Miguel",
+            "San Salvador",
+            "San Vicente",
+            "Santa Ana",
+            "Sonsonate",
+            "Usulután"
+        ]
+    },
+    "TR": {
+        "country_name": "Turkey",
+        "phone_format": "+90-XXX-XXX-XXXX",
+        "streets": [
+            "Abdi İpekçi Caddesi",
+            "Alsancak",
+            "Atatürk Bulvarı",
+            "Barbaros Bulvarı",
+            "Bağdat Caddesi",
+            "Büyükdere Caddesi",
+            "Cumhuriyet Caddesi",
+            "Halaskargazi Caddesi",
+            "Istiklal Caddesi",
+            "Kordon",
+            "Kızılay",
+            "Nişantaşı",
+            "Vali Konağı Caddesi",
+            "İnönü Caddesi"
+        ],
+        "cities": [
+            {
+                "name": "Adana"
+            },
+            {
+                "name": "Adapazarı"
+            },
+            {
+                "name": "Ankara"
+            },
+            {
+                "name": "Antalya"
+            },
+            {
+                "name": "Bursa"
+            },
+            {
+                "name": "Denizli"
+            },
+            {
+                "name": "Diyarbakır"
+            },
+            {
+                "name": "Erzurum"
+            },
+            {
+                "name": "Eskişehir"
+            },
+            {
+                "name": "Gaziantep"
+            },
+            {
+                "name": "Istanbul"
+            },
+            {
+                "name": "Izmir"
+            },
+            {
+                "name": "Kahramanmaraş"
+            },
+            {
+                "name": "Kayseri"
+            },
+            {
+                "name": "Konya"
+            },
+            {
+                "name": "Malatya"
+            },
+            {
+                "name": "Mersin"
+            },
+            {
+                "name": "Samsun"
+            },
+            {
+                "name": "Van"
+            },
+            {
+                "name": "Şanlıurfa"
+            }
+        ],
+        "regions": [
+            "Adana",
+            "Ankara",
+            "Antalya",
+            "Aydın",
+            "Balıkesir",
+            "Bursa",
+            "Gaziantep",
+            "Hatay",
+            "Istanbul",
+            "Izmir",
+            "Kayseri",
+            "Konya",
+            "Manisa",
+            "Mersin",
+            "Şanlıurfa"
+        ]
+    },
+    "UA": {
+        "country_name": "Ukraine",
+        "phone_format": "+380-XX-XXX-XX-XX",
+        "streets": [
+            "Deribasivska Street",
+            "Khreshchatyk",
+            "Lesi Ukrainky Boulevard",
+            "Peremohy Avenue",
+            "Preobrazhenska Street",
+            "Sagaidachnoho Street",
+            "Velyka Vasylkivska Street",
+            "Volodymyrska Street"
+        ],
+        "cities": [
+            {
+                "name": "Dnipro"
+            },
+            {
+                "name": "Donetsk"
+            },
+            {
+                "name": "Kharkiv"
+            },
+            {
+                "name": "Kryvyi Rih"
+            },
+            {
+                "name": "Kyiv"
+            },
+            {
+                "name": "Lviv"
+            },
+            {
+                "name": "Mariupol"
+            },
+            {
+                "name": "Mykolaiv"
+            },
+            {
+                "name": "Odessa"
+            },
+            {
+                "name": "Zaporizhzhia"
+            }
+        ],
+        "regions": [
+            "Dnipropetrovsk",
+            "Donetsk",
+            "Kharkiv",
+            "Kyiv",
+            "Kyiv Oblast",
+            "Lviv",
+            "Odessa",
+            "Zaporizhzhia"
+        ]
+    },
+    "GB": {
+        "country_name": "United Kingdom",
+        "phone_format": "+44-XX-XXXX-XXXX",
+        "streets": [
+            "Albert Street",
+            "Bridge Road",
+            "Castle Street",
+            "Chapel Lane",
+            "Church Lane",
+            "Church Road",
+            "Church Street",
+            "Elm Grove",
+            "Garden Street",
+            "Green Lane",
+            "High Street",
+            "Hillside Drive",
+            "King Street",
+            "London Road",
+            "Manor Drive",
+            "Manor Road",
+            "Meadow Close",
+            "Mill Lane",
+            "New Road",
+            "Orchard Close",
+            "Orchard Way",
+            "Park Avenue",
+            "Park Road",
+            "Queen Street",
+            "Queen's Road",
+            "School Lane",
+            "Springfield Road",
+            "Station Road",
+            "The Avenue",
+            "The Green",
+            "Victoria Road",
+            "Victoria Street",
+            "Windsor Road",
+            "York Road"
+        ],
+        "street_addresses": [
+            "Business Park",
+            "Commercial Centre",
+            "Education Campus",
+            "Housing Estate",
+            "Industrial Estate",
+            "Leisure Complex",
+            "Market Square",
+            "Medical Centre",
+            "Office Complex",
+            "Retail Park",
+            "Shopping Centre",
+            "Technology Park",
+            "Town Centre",
+            "Trading Estate",
+            "Village Green"
+        ],
+        "cities": [
+            {
+                "name": "Belfast"
+            },
+            {
+                "name": "Birmingham"
+            },
+            {
+                "name": "Birmingham"
+            },
+            {
+                "name": "Bradford"
+            },
+            {
+                "name": "Bristol"
+            },
+            {
+                "name": "Bristol"
+            },
+            {
+                "name": "Cambridge"
+            },
+            {
+                "name": "Cardiff"
+            },
+            {
+                "name": "Coventry"
+            },
+            {
+                "name": "Derby"
+            },
+            {
+                "name": "Edinburgh"
+            },
+            {
+                "name": "Edinburgh"
+            },
+            {
+                "name": "Glasgow"
+            },
+            {
+                "name": "Glasgow"
+            },
+            {
+                "name": "Kingston upon Hull"
+            },
+            {
+                "name": "Leeds"
+            },
+            {
+                "name": "Leeds"
+            },
+            {
+                "name": "Leicester"
+            },
+            {
+                "name": "Liverpool"
+            },
+            {
+                "name": "Liverpool"
+            },
+            {
+                "name": "London"
+            },
+            {
+                "name": "London"
+            },
+            {
+                "name": "Manchester"
+            },
+            {
+                "name": "Manchester"
+            },
+            {
+                "name": "Newcastle upon Tyne"
+            },
+            {
+                "name": "Nottingham"
+            },
+            {
+                "name": "Oxford"
+            },
+            {
+                "name": "Sheffield"
+            },
+            {
+                "name": "Southampton"
+            },
+            {
+                "name": "Stoke-on-Trent"
+            }
+        ],
+        "regions": [
+            "England",
+            "Greater London",
+            "Greater Manchester",
+            "Merseyside",
+            "Northern Ireland",
+            "Scotland",
+            "South Yorkshire",
+            "Tyne and Wear",
+            "Wales",
+            "West Midlands",
+            "West Yorkshire"
+        ]
+    }
+}
