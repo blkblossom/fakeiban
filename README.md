@@ -6,7 +6,7 @@ A public IBAN bank-code dataset and a tiny FastAPI service that generates mod-97
 
 - **Datasets**
   - [`bank_data.json`](./bank_data.json) — real bank records across 61 countries, grouped by country (also available as [`bank_data.csv`](./bank_data.csv)).
-  - [`address_data.json`](./address_data.json) — street/city/region/phone components for 46 of those countries.
+  - [`address_data.json`](./address_data.json) — real `(city, region, postcode)` tuples (from GeoNames) plus street names + phone format for 42 of those countries.
 - **API** — [`main.py`](./main.py) (endpoints) + [`iban.py`](./iban.py) (`IBANGenerator`) + [`address.py`](./address.py) (`AddressGenerator`). FastAPI returns a freshly-generated IBAN plus a plausible address for any supported country.
 
 ## Quickstart
@@ -39,12 +39,11 @@ Example response (illustrative — the API generates a new IBAN each call):
   "bank_name":    "Commerzbank",
   "swift_bic":    "COBADEFFXXX",
   "address": {
-    "street":      "742 Hauptstraße",
-    "street_address": "",
-    "city":        "Munich",
-    "region":      "Bavaria",
-    "postcode":    "80331",
-    "phone":       "+49-89-1234567"
+    "street":   "742 Hauptstraße",
+    "city":     "Munich",
+    "region":   "Bavaria",
+    "postcode": "80331",
+    "phone":    "+49-89-1234567"
   }
 }
 ```
@@ -124,7 +123,7 @@ curl https://fakeiban.vercel.app/countries
 
 - **Test data only** — bank codes are real, but account numbers and addresses are randomly generated.
 - **Cannot send or receive real money** — IBANs validate structurally (mod-97) but are not registered to anyone.
-- **Addresses are plausible, not real** — city and region are real names, but the street + number + postcode are random combinations.
+- **Addresses** — the `city`, `region`, and `postcode` are a real, consistent combination (sourced from GeoNames); the street is a real street name for the country with a random house number, so it is not guaranteed to exist at that exact postcode. Address data covers 42 countries; the other 19 (no free postal data) return `"address": null`.
 - **Italian IBANs** include a CIN check letter; the API computes it via the official algorithm automatically.
 - **Snapshot, not live** — the dataset is a point-in-time export; banks may merge, rename, or change BICs.
 
