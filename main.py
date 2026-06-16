@@ -111,7 +111,7 @@ def iban(country: str = Query(..., description="ISO country code, e.g. DE")):
         result = iban_generator.generate(country).to_dict()
     except UnknownCountryError as e:
         raise HTTPException(400, str(e))
-    result["address"] = address_for(country)
+    result["account_holder"] = address_for(country)
     return result
 
 
